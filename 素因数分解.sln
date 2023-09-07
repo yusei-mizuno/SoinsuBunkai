@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "素因数分解", "素因数分解.csproj", "{70360D38-0464-442F-BB32-CE1CABECC4F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70360D38-0464-442F-BB32-CE1CABECC4F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70360D38-0464-442F-BB32-CE1CABECC4F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70360D38-0464-442F-BB32-CE1CABECC4F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70360D38-0464-442F-BB32-CE1CABECC4F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F05F3053-F865-453F-811C-04415657D040}
+	EndGlobalSection
+EndGlobal

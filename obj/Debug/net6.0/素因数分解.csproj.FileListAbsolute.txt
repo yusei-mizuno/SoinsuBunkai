@@ -1,0 +1,15 @@
+C:\Users\yu_se\source\repos\素因数分解\obj\Debug\net6.0\素因数分解.csproj.AssemblyReference.cache
+C:\Users\yu_se\source\repos\素因数分解\obj\Debug\net6.0\素因数分解.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yu_se\source\repos\素因数分解\obj\Debug\net6.0\素因数分解.AssemblyInfoInputs.cache
+C:\Users\yu_se\source\repos\素因数分解\obj\Debug\net6.0\素因数分解.AssemblyInfo.cs
+C:\Users\yu_se\source\repos\素因数分解\obj\Debug\net6.0\素因数分解.csproj.CoreCompileInputs.cache
+C:\Users\yu_se\source\repos\素因数分解\bin\Debug\net6.0\素因数分解.exe
+C:\Users\yu_se\source\repos\素因数分解\bin\Debug\net6.0\素因数分解.deps.json
+C:\Users\yu_se\source\repos\素因数分解\bin\Debug\net6.0\素因数分解.runtimeconfig.json
+C:\Users\yu_se\source\repos\素因数分解\bin\Debug\net6.0\素因数分解.dll
+C:\Users\yu_se\source\repos\素因数分解\bin\Debug\net6.0\素因数分解.pdb
+C:\Users\yu_se\source\repos\素因数分解\obj\Debug\net6.0\素因数分解.dll
+C:\Users\yu_se\source\repos\素因数分解\obj\Debug\net6.0\refint\素因数分解.dll
+C:\Users\yu_se\source\repos\素因数分解\obj\Debug\net6.0\素因数分解.pdb
+C:\Users\yu_se\source\repos\素因数分解\obj\Debug\net6.0\素因数分解.genruntimeconfig.cache
+C:\Users\yu_se\source\repos\素因数分解\obj\Debug\net6.0\ref\素因数分解.dll
